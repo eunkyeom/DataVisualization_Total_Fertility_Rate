@@ -1,7 +1,7 @@
 # DataVisualization_Total_Fertility_Rate
 ## 데이터 시각화 - 출생아 수 및 합계 출산율
 
-파이썬의 matplotlib과 pandas를 활용하여 데이터 정리/시각화 개인 프로젝트 입니다.
+파이썬의 matplotlib과 pandas를 활용한 데이터 정리/시각화 개인 프로젝트 입니다.
 
 대한민국의 출생아 수 및 합계출산율에 대한 추이를 시각화했으며, e나라지표 (https://www.index.go.kr/potal/main/EachDtlPageDetail.do?idx_cd=1428)의 통계와 차트를 참조하였습니다. 
 
